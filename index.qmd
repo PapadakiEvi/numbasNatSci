@@ -1,0 +1,17 @@
+---
+title: "NUMBAS"
+output:
+  quarto::quarto_html:
+    self_contained: true
+---
+
+Choose what you want to do:
+
+1.  [Button 1: External Link](https://www.example.com/)
+2.  [Button 2: About](#about)
+
+<div class="button-container">
+  <a href="https://www.example.com/" class="button">Button 1: External Link</a>
+  <a href="#about" class="button">Button 2: About</a>
+</div>
+
