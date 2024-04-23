@@ -5,5 +5,26 @@
     "title": "NUMBAS",
     "section": "",
     "text": "Try more of our NUMBAS questions\nExplore NUMBAS\n\nTry more of our NUMBAS questions"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the project",
+    "section": "",
+    "text": "In England, students take national assessments at age 16. Between the ages of 16 and 18, students could opt in to further their studies in three or more advanced level (A-level) subjects, with mathematics among the more than 40 different subjects available. The typical university-entrance qualifications are A-levels. Universities specify entry requirements – A-level subjects, grades and equivalent qualifications (e.g., International Baccalaureate, practical-based vocational qualifications etc.) – for each degree, offering alternatives to students.  It follows that there are a considerable number of students admitted to study non-specialist subjects without A-level mathematics as one of their qualifications (Hodgen et al., 2018). The study of mathematics post-16 was not found to predict success in university subjects such as biology or chemistry (Adkins & Noyes, 2018). However, the gap created due to the various entry pathways suggests a need for tailoring university curricula around the diverse needs of cohorts."
+  },
+  {
+    "objectID": "about.html#context",
+    "href": "about.html#context",
+    "title": "About the project",
+    "section": "",
+    "text": "In England, students take national assessments at age 16. Between the ages of 16 and 18, students could opt in to further their studies in three or more advanced level (A-level) subjects, with mathematics among the more than 40 different subjects available. The typical university-entrance qualifications are A-levels. Universities specify entry requirements – A-level subjects, grades and equivalent qualifications (e.g., International Baccalaureate, practical-based vocational qualifications etc.) – for each degree, offering alternatives to students.  It follows that there are a considerable number of students admitted to study non-specialist subjects without A-level mathematics as one of their qualifications (Hodgen et al., 2018). The study of mathematics post-16 was not found to predict success in university subjects such as biology or chemistry (Adkins & Noyes, 2018). However, the gap created due to the various entry pathways suggests a need for tailoring university curricula around the diverse needs of cohorts."
+  },
+  {
+    "objectID": "about.html#our-team-and-the-project",
+    "href": "about.html#our-team-and-the-project",
+    "title": "About the project",
+    "section": "Our Team and The Project",
+    "text": "Our Team and The Project\nThis project is a collaborative effort between colleagues at the Mathematics Resources Centre, the Department of Life Sciences and the Department of Mathematical Sciences at our university. The project aims to address the gap arising from the various entry pathways for a bachelor’s degree in Natural Sciences through targeted teaching and the use of contextualised resources. We developed a set of NUMBAS questions to aid in identifying the target population and support the teaching of mathematical skills required for their scientific study and degree accreditation.  \nNUMBAS is a web-based system used to design open-source dynamic assessment questions for mathematical subjects. The use of NUMBAS was grounded on its accessibility and easy-to-use features. The questions were designed around contextualised examples pertinent to the discipline based on suggestions in relevant literature (e.g., Watters et al., 2022). Prior research indicates potential affordances of using NUMBAS as learning and e-assessment tool where the mathematical content is not contextualised (Hadjerrouit, 2020). However, there is limited evidence about the potential of using NUMBAS to create contextualised randomised questions.\nOur work aims to address answer the following research question: what are the anticipated benefits and limitations of using contextualised NUMBAS questions to identify and support Natural Sciences students’ mathematical needs?\n\nReferences\nAdkins, M., & Noyes, A. (2018). Do Advanced Mathematics Skills Predict Success in Biology and Chemistry Degrees? International Journal of Science and Mathematics Education, 16(3), 487–502. https://doi.org/10.1007/s10763-016-9794-y\nHadjerrouit, S. (2020). Exploring the affordances of Numbas for mathematical learning: A case study. In T. Hausberger, M. Bosch, & F. Chellougui (Eds.), Proceedings of the Third Conference of the International Network for Didactic Research in University Mathematics (pp. 453–462). University of Carthage and INDRUM. https://hal.science/INDRUM2020\nHodgen, J., Adkins, M., & Tomei, A. (2018). The mathematical backgrounds of undergraduates from England. Teaching Mathematics and Its Applications, 39(1), 38–60 . https://doi.org/10.1093/teamat/hry017\nWatters, D. J., Johnston, P. R., Brown, C. L., & Loughlin, W. A. (2022). Undergraduate biochemistry student difficulties with topics requiring mathematical skills: use of an online maths skills support site. Journal of Biological Education, 56(2), 130–146. https://doi.org/10.1080/00219266.2020.1757484"
   }
 ]
