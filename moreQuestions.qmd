@@ -1,0 +1,7 @@
+---
+title: "More NatSci Questions"
+---
+
+```{=html}
+<iframe width="100%" height="300%" src="https://numbas.mathcentre.ac.uk/exam/35223/natural-sciences/embed/" title="Numbas"></iframe>
+```

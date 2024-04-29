@@ -5,10 +5,11 @@ project:
 website:
   title: "NatSci Project"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - moreQuestions.qmd
 
 format:
   html:
