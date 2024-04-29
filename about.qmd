@@ -6,7 +6,7 @@ title: "About the project"
 
 In England, students take national assessments at age 16. Between the ages of 16 and 18, students could opt in to further their studies in three or more advanced level (A-level) subjects, with mathematics among the more than 40 different subjects available. The typical university-entrance qualifications are A-levels. Universities specify entry requirements – A-level subjects, grades and equivalent qualifications (e.g., International Baccalaureate, practical-based vocational qualifications etc.) – for each degree, offering alternatives to students.  It follows that there are a considerable number of students admitted to study non-specialist subjects without A-level mathematics as one of their qualifications (Hodgen et al., 2018). The study of mathematics post-16 was not found to predict success in university subjects such as biology or chemistry (Adkins & Noyes, 2018). However, the gap created due to the various entry pathways suggests a need for tailoring university curricula around the diverse needs of cohorts.
 
-## Our Team and The Project 
+## Our Team and The Project
 
 This project is a collaborative effort between colleagues at the Mathematics Resources Centre, the Department of Life Sciences and the Department of Mathematical Sciences at our university. The project aims to address the gap arising from the various entry pathways for a bachelor’s degree in Natural Sciences through targeted teaching and the use of contextualised resources. We developed a set of NUMBAS questions to aid in identifying the target population and support the teaching of mathematical skills required for their scientific study and degree accreditation.  
 

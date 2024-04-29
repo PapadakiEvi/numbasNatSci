@@ -18,5 +18,5 @@ knitr::include_url("https://numbas.mathcentre.ac.uk/question/125558/integration-
 [Explore NUMBAS](https://numbas.mathcentre.ac.uk/)
 
 ::: button-container
-<a href="https://numbas.mathcentre.ac.uk/exam/35223/natural-sciences/embed/?token=0df548c5-c924-458e-957b-ea4ae0694333" class="button">Try more of our NUMBAS questions</a>
+<a href="https://numbas.mathcentre.ac.uk/exam/share/view/0df548c5-c924-458e-957b-ea4ae0694333" class="button">Try more of our NUMBAS questions</a>
 :::
