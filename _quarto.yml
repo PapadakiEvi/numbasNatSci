@@ -11,11 +11,10 @@ website:
         text: Home
       - about.qmd
       - links.qmd
-      
   page-footer: 
-    left: ©Copyrigh 2024, Evi Papadaki 
-    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/PapadakiEvi/numbasNatSci.git){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
-
+    left: ©Evi Papadaki 2024  
+    right: This website is built with [{{< fa brands github title="GitHub octocatlogo" >}}](https://github.com/PapadakiEvi/numbasNatSci.git){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+      
 format:
   html:
     page-layout: full

@@ -1,5 +1,8 @@
 ---
 title: "About the project"
+output:
+  quarto::quarto_html:
+    self_contained: true
 ---
 
 ## Context

@@ -19,3 +19,12 @@
   background-color: #ddd;
 }
 /* css styles */
+
+
+
+/* Hide footer on the homepage */
+body.homepage footer {
+    display: none;
+}
+
+

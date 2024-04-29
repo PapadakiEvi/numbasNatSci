@@ -1,12 +1,13 @@
 ---
 title: "Radioactive Decay"
-website: 
-   page-footer: false
 output:
   quarto::quarto_html:
     self_contained: true
-    
 ---
+
+
+<body class="homepage">
+
 
 ```{=html}
 <iframe width="100%" height="300%" src="https://numbas.mathcentre.ac.uk/question/125558/integration-solving-separable-differential-equations-radioactive-decay/embed/" title="Numbas"></iframe>
