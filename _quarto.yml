@@ -5,13 +5,16 @@ project:
 website:
   title: "NatSci Project"
   navbar:
+    title: false
     right:
       - href: index.qmd
         text: Home
       - about.qmd
-      - moreQuestions.qmd
-      - href: https://numbas.mathcentre.ac.uk/
-        text: Explore NUMBAS
+      - links.qmd
+      
+  page-footer: 
+    left: ©Copyrigh 2024, Evi Papadaki 
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/PapadakiEvi/numbasNatSci.git){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:

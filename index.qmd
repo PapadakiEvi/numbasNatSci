@@ -1,8 +1,11 @@
 ---
 title: "Radioactive Decay"
+website: 
+   page-footer: false
 output:
   quarto::quarto_html:
     self_contained: true
+    
 ---
 
 ```{=html}

@@ -1,0 +1,15 @@
+---
+title: "Links"
+---
+
+* [Explore how our questions are built](https://numbas.mathcentre.ac.uk/exam/share/view/0df548c5-c924-458e-957b-ea4ae0694333) (requires log in)
+* [Explore NUMBAS](https://numbas.mathcentre.ac.uk/)
+
+
+
+<!--
+```{=html}
+<iframe width="100%" height="300%" src="https://numbas.mathcentre.ac.uk/exam/35223/natural-sciences/embed/" title="Numbas"></iframe>
+```
+-->
+
