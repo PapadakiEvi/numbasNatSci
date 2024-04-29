@@ -10,6 +10,8 @@ website:
         text: Home
       - about.qmd
       - moreQuestions.qmd
+      - href: https://numbas.mathcentre.ac.uk/
+        text: Explore NUMBAS
 
 format:
   html:
