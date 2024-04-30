@@ -15,9 +15,22 @@
   font-weight: bold;
 }
 
-.button:hover {
-  background-color: #ddd;
+
+/* Set background color */
+body {
+    background-color: #ECE7ED; /* Change this to your desired background color */
 }
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #3A4D13;
+}
+
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #80ac26;
+}
+
 /* css styles */
 
 

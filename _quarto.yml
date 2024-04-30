@@ -9,10 +9,11 @@ website:
     right:
       - href: index.qmd
         text: Home
+     #- more.qmd
       - about.qmd
       - links.qmd
   page-footer: 
-    left: ©Evi Papadaki 2024  
+    left: ©2024, Evi Papadaki   
     right: This website is built with [{{< fa brands github title="GitHub octocatlogo" >}}](https://github.com/PapadakiEvi/numbasNatSci.git){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
       
 format:
